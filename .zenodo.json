@@ -1,0 +1,25 @@
+{
+  "title": "Original data and R code for \"Seasonal Environmental Variability and Asynchronous Changes in Dissolved Organic Matter in Lake Erhai\"",
+  "description": "<p>This dataset contains the original field and laboratory data, the derived datasets, and the R code supporting the manuscript <em>Seasonal Environmental Variability and Asynchronous Changes in Dissolved Organic Matter in Lake Erhai</em> (submitted to <em>Water</em>, MDPI).</p><p>Contents: raw and processed field environmental data (water temperature, pH, dissolved oxygen, conductivity, nutrients), dissolved organic carbon (DOC) concentrations, DOM fluorescence components and fluorescence indices (Fn(355), FI, HIX, BIX), chlorophyll-a, Carlson trophic state index, compiled datasets and correlation matrices, together with the R scripts used for data processing, statistical analysis and figure generation.</p>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Huo, D.",
+      "affiliation": "Hulunbuir University"
+    }
+  ],
+  "keywords": [
+    "dissolved organic matter",
+    "DOM",
+    "fluorescence spectroscopy",
+    "EEM-PARAFAC",
+    "Lake Erhai",
+    "seasonal variability",
+    "eutrophication",
+    "water quality"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Code (.R) is released under the MIT License; data (.xlsx) under CC BY 4.0."
+}
