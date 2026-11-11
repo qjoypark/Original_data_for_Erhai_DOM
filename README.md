@@ -39,10 +39,10 @@ See `LICENSE` and `LICENSE-CODE` for the full text.
 
 If you use these data or code, please cite both the article and this dataset:
 
-> Park, Q. *Original Data and R Code for "Seasonal Environmental Variability and  
+> Huo，D. *Original Data and R Code for "Seasonal Environmental Variability and  
 > Asynchronous Changes in Dissolved Organic Matter in Lake Erhai"*; Zenodo: 2026.  
 > <https://doi.org/10.5281/zenodo.XXXXXXX>
 
 ## Contact
 
-Corresponding author: [name, affiliation, e-mail]
+Corresponding author: [Dahuo, Hulunbuir University, huoda@hlbec.edu.cn]
