@@ -41,7 +41,7 @@ If you use these data or code, please cite both the article and this dataset:
 
 > Huo，D. *Original Data and R Code for "Seasonal Environmental Variability and  
 > Asynchronous Changes in Dissolved Organic Matter in Lake Erhai"*; Zenodo: 2026.  
-> <https://doi.org/10.5281/zenodo.XXXXXXX>
+> <https://doi.org/10.5281/zenodo.24139990.>
 
 ## Contact
 
